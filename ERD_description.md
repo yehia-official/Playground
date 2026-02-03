@@ -1,6 +1,8 @@
 # Entity Relationship Diagram - Coding Practice Platform
 
 ## Core Entities & Relationships
+![Image](https://github.com/user-attachments/assets/c635040d-c926-411c-8623-0cb9540bcd25)
+
 
 ### 1. Authentication & User Management
 
